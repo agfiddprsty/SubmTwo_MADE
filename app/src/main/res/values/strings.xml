@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Movies Catalogue ~ Sub2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tab_text">This is Tab</string>
+    <string name="tab_1">Movies</string>
+    <string name="tab_2">TV Show</string>
+    <string name="action_settings">Language Setting</string>
+    <string name="mov_name">Movies Name</string>
+    <string name="mov_desc">Movies Description</string>
+    <string name="lorem">All seems well on the island of Berk as Vikings and dragons live together in peace and harmony. Now a Viking leader, Hiccup finds himself increasingly attracted to Astrid, while his beloved dragon Toothless meets an enchanting creature who captures his eye. When the evil Grimmel launches a devious plan to wipe out all the dragons, Hiccup must unite both clans to find Caldera, a hidden land that holds the key to saving Toothless and his flying friends.</string>
+
+    <string-array name="movie_title">
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bumblebee</item>
+        <item>Venom</item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>Robin Hood</item>
+        <item>How To Train Your Dragon: The Hidden World</item>
+        <item>Once Upon a Deadpool</item>
+        <item>Glass</item>
+        <item>Mortal Engines</item>
+    </string-array>
+
+    <string name="desc_aquaman">Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</string>
+    <string name="desc_avenger">As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</string>
+    <string name="desc_bumb">On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</string>
+    <string name="desc_venom">Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</string>
+    <string name="desc_spider">Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</string>
+    <string name="desc_robin">A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</string>
+    <string name="desc_dragon">As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</string>
+    <string name="desc_deadpool">A kidnapped Fred Savage is forced to endure Deadpool\'s PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that\'s full of magic, wonder And zero F\'s.</string>
+    <string name="desc_glass">In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</string>
+    <string name="desc_mortal">Many thousands of years in the future, Earth’s cities roam the globe on huge wheels, devouring each other in a struggle for ever diminishing resources. On one of these massive traction cities, the old London, Tom Natsworthy has an unexpected encounter with a mysterious young woman from the wastelands who will change the course of his life forever.</string>
+
+
+    <string-array name="movie_desc">
+        <item>@string/desc_aquaman</item>
+        <item>@string/desc_avenger</item>
+        <item>@string/desc_bumb</item>
+        <item>@string/desc_venom</item>
+        <item>@string/desc_spider</item>
+        <item>@string/desc_robin</item>
+        <item>@string/desc_dragon</item>
+        <item>@string/desc_deadpool</item>
+        <item>@string/desc_glass</item>
+        <item>@string/desc_mortal</item>
+    </string-array>
+
+
+    <string-array name="photo_movie">
+        <item>@drawable/aquaman</item>
+        <item>@drawable/avengerinfinity</item>
+        <item>@drawable/bumblebee</item>
+        <item>@drawable/venom</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/robinhood</item>
+        <item>@drawable/dragon</item>
+        <item>@drawable/deadpool</item>
+        <item>@drawable/glass</item>
+        <item>@drawable/mortalengine</item>
+    </string-array>
+
+    <string-array name="tv_title">
+        <item>Arrow</item>/
+        <item>Dragon Ball</item>/
+        <item>Fairy Tail</item>/
+        <item>Flash</item>/
+        <item>Game Of Thrones</item>
+        <item>Iron Fist</item>/
+        <item>The Walking Dead</item>/
+        <item>NCIS</item>/
+        <item>Super Girl</item>/
+        <item>Super Natural</item>
+    </string-array>
+
+    <string name="desc_twd">Sheriff\'s deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</string>
+    <string name="desc_ft">Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn\'t just any ordinary kid, he\'s a member of one of the world\'s most infamous mage guilds: Fairy Tail.</string>
+    <string name="desc_db">Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma, whose search for the dragon balls brought her to Goku\'s home. Together, they set off to find all seven dragon balls in an adventure that would change Goku\'s life forever. See how Goku met his life long friends Bulma, Yamcha, Krillin, Master Roshi and more. And see his adventures as a boy, all leading up to Dragonball Z and later Dragonball GT.</string>
+    <string name="desc_arrow">Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</string>
+    <string name="desc_flash">After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only "meta-human" who was created in the wake of the accelerator explosion  and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won\'t be long before the world learns what Barry Allen has become The Flash.</string>
+    <string name="desc_ncis">From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.</string>
+    <string name="desc_if">Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.</string>
+    <string name="desc_sg">Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.</string>
+    <string name="desc_sn">Two brothers follow their father\'s footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.</string>
+    <string name="desc_got">Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night\'s Watch, is all that stands between the realms of men and icy horrors beyond.</string>
+
+    <string-array name="tv_desc">
+        <item>@string/desc_arrow</item>
+        <item>@string/desc_db</item>
+        <item>@string/desc_ft</item>
+        <item>@string/desc_flash</item>
+        <item>@string/desc_got</item>
+        <item>@string/desc_if</item>
+        <item>@string/desc_twd</item>
+        <item>@string/desc_ncis</item>
+        <item>@string/desc_sg</item>
+        <item>@string/desc_sn</item>
+    </string-array>
+
+    <string-array name="tv_photo">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_the_walking_dead</item>
+        <item>@drawable/poster_ncis</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_supernatural</item>
+    </string-array>
+</resources>
